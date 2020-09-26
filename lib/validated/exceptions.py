@@ -1,0 +1,6 @@
+class TypeMismatchError(Exception):
+    ...
+
+
+class NoSchemeError(Exception):
+    ...
