@@ -1,2 +1,2 @@
 # Validated
-A Python library to validate data.
+A Python library to validate data types
